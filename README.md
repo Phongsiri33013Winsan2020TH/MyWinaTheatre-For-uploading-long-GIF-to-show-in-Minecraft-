@@ -6,6 +6,8 @@
 
 **Ex. Drama on TV (1 part of it), short cartoon that show on TV.**
 
+**Because Minecraft role-play city time is shorter than real-life and player may boring if movie without sound.**
+
 Upload in pull request.
 
 Name like this:
